@@ -1,0 +1,18 @@
+D:\Beatroot\Home24(Асинхронне програмування)\bin\Debug\net5.0\Home24(Асинхронне програмування).exe
+D:\Beatroot\Home24(Асинхронне програмування)\bin\Debug\net5.0\Home24(Асинхронне програмування).deps.json
+D:\Beatroot\Home24(Асинхронне програмування)\bin\Debug\net5.0\Home24(Асинхронне програмування).runtimeconfig.json
+D:\Beatroot\Home24(Асинхронне програмування)\bin\Debug\net5.0\Home24(Асинхронне програмування).runtimeconfig.dev.json
+D:\Beatroot\Home24(Асинхронне програмування)\bin\Debug\net5.0\Home24(Асинхронне програмування).dll
+D:\Beatroot\Home24(Асинхронне програмування)\bin\Debug\net5.0\ref\Home24(Асинхронне програмування).dll
+D:\Beatroot\Home24(Асинхронне програмування)\bin\Debug\net5.0\Home24(Асинхронне програмування).pdb
+D:\Beatroot\Home24(Асинхронне програмування)\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\Home24(Асинхронне програмування).csproj.AssemblyReference.cache
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\Home24(Асинхронне програмування).GeneratedMSBuildEditorConfig.editorconfig
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\Home24(Асинхронне програмування).AssemblyInfoInputs.cache
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\Home24(Асинхронне програмування).AssemblyInfo.cs
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\Home24(Асинхронне програмування).csproj.CoreCompileInputs.cache
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\Home24(Асинхронне програмування).csproj.CopyComplete
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\Home24(Асинхронне програмування).dll
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\ref\Home24(Асинхронне програмування).dll
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\Home24(Асинхронне програмування).pdb
+D:\Beatroot\Home24(Асинхронне програмування)\obj\Debug\net5.0\Home24(Асинхронне програмування).genruntimeconfig.cache
